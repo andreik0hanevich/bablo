@@ -5,20 +5,9 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <form action="https://zubooth.com/" target='_blank'>
+      <button>БАБЛО <br /><span>не скам не наеб точно бабло всё на карту сразу пришлют нажми пожалуйста если хочешь чтобы мама жила вечно</span></button>
+      </form>
     </div>
   );
 }
